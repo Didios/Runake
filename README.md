@@ -1,4 +1,4 @@
-Ceci est un jeu dans lequel vous controller un serpent (semblable aux wigglers de mario mais sans jambe) ayant pour but de survivre le plus longtemps possible.\n
+Ceci est un jeu dans lequel vous controller un serpent (semblable aux wigglers de mario mais sans jambe) ayant pour but de survivre le plus longtemps possible.
 Les boules vertes augmentent votre vie et votre taille
 les boules de feu diminuent votre vie selon leur taille : plus grosse est la boule, plus de dégâts elle fera
 
