@@ -6,6 +6,8 @@ les boules de feu diminuent votre vie selon leur taille : plus grosse est la bou
 
 Si une boule de feu touche une partie de votre corps, elle tue tous ceux qui suivent.
 
+le score final dépend du temps de la partie et du nombre de boules vertes obtenus, le score maximal est sauvegardé grâce aux preferences joueur de unity
+
 
 Crédits :
 
